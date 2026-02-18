@@ -7,7 +7,7 @@ To use it on a 2560x1440 screen, adjust the `desktop-image` in the file `Sekiro/
 
 Clone the repository:
 ```
-$ git clone https://github.com/semimqmo/sekiro_grub_theme
+$ git clone https://github.com/SHAID10/Sekiro_Themed_Grub
 ```
 Switch to the repository folder:
 ```
