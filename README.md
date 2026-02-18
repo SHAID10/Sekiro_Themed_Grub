@@ -19,7 +19,7 @@ $ ./install.sh
 ```
 
 ## Screenshot
-![](https://github.com/semimqmo/sekiro_grub_theme/blob/main/screenshot.png?raw=true)
+![](https://github.com/SHAID10/Sekiro_Themed_Grub/blob/main/screenshot.png?raw=true)
 
 ## Troubleshooting
 
