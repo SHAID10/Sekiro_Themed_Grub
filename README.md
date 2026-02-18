@@ -75,3 +75,7 @@ If the above doesn't work, manually regenerate the font files:
 - Ensure `GRUB_TERMINAL_OUTPUT="gfxterm"` is set in `/etc/default/grub`
 - Check that the theme path is correct in `/etc/default/grub`
 - Run the installation script with sudo privileges
+
+This is an opened source theme feel free to copy and use it.. 
+
+** BY Masad Shaid - https://github.com/SHAID10 **
